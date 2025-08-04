@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DualAppDataSync/static/css/main.f68c37f5.css",
-    "main.js": "/DualAppDataSync/static/js/main.6f288921.js",
+    "main.js": "/DualAppDataSync/static/js/main.2db12eb6.js",
     "index.html": "/DualAppDataSync/index.html",
     "main.f68c37f5.css.map": "/DualAppDataSync/static/css/main.f68c37f5.css.map",
-    "main.6f288921.js.map": "/DualAppDataSync/static/js/main.6f288921.js.map"
+    "main.2db12eb6.js.map": "/DualAppDataSync/static/js/main.2db12eb6.js.map"
   },
   "entrypoints": [
     "static/css/main.f68c37f5.css",
-    "static/js/main.6f288921.js"
+    "static/js/main.2db12eb6.js"
   ]
 }
